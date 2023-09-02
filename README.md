@@ -1,4 +1,4 @@
-# homebrew
+# homeBrew
 A collection of simple programs I put together on my journey to learn Python.
 
 
