@@ -1,5 +1,5 @@
 # homebrew
-A collection of cool programs I put together on my journey to learn Python
+A collection of simple programs I put together on my journey to learn Python.
 
 ### madlibs
 madlibs > fun little Madlibs game where you can input a few values and read along an Adventure Tale!
