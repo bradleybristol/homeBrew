@@ -14,4 +14,6 @@ printEven > a program to print all even numbers between 1 and n, n is a user-def
 printNumbers > a program that prints numbers from 1 to n, n is a user-defined integer.
 ### printOdd
 printOdd > a program to print all odd numbers between 1 and n, n is a user-defined integer.
+### vowelCount
+vowelCount > a program that counts the number of vowels (a, e, i, o, u) in a given string.
 
